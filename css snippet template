@@ -1,0 +1,6 @@
+.view-content {
+  background-image: linear-gradient(rgba(15, 15, 20, 0.55), rgba(15, 15, 20, 0.55)), url("https://raw.githubusercontent.com/abby90313-hub/Images/main/IMAGE_NAME.jpg") !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+}
